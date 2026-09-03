@@ -21,3 +21,5 @@ man in the middle attack on utilise bettercap sur le meme reseau
 5 net.sniff on
 
 https://www.magnific.com
+
+PLAN HACKING https://www.magnific.com/
