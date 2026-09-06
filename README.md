@@ -23,3 +23,7 @@ man in the middle attack on utilise bettercap sur le meme reseau
 https://www.magnific.com
 
 PLAN HACKING https://www.magnific.com/
+
+agent course
+
+https://www.d-id.com/
