@@ -6,6 +6,9 @@ EFFACER L'ARRIERE PLAN DE L'IMAGE - https://www.photiu.ai/fr/background-remover
 
 man in the middle attack on utilise bettercap sur le meme reseau
 
+SIM LINK
+
+https://valosim.com/
 
 
 1 sudo bettercap
