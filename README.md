@@ -1,3 +1,6 @@
+
+TOR http://torsedz565kauwu4duvxduwzpihukecrid2riw5lkyxypunhfmerbmid.onion/search?search=AI
+
 # LINK
 TOOLS
 GMAIL = https://fingerprint.to/dashboard/search
