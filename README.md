@@ -1,5 +1,10 @@
 * CANVA
+* ------------------------------------------------------------
 |[ **CANVA EFFECT**](https://www.canva.com/)| [MULTI EFFECT]|
+
+
+
+
 wifi
 
 http://hacktowncsq6tszgk452y6mmnrr7jsgfi6qozaq4arwl3oial3irzkid.onion/Resources/View/ACTI-3
