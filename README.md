@@ -3,7 +3,9 @@
 |       [ **CANVA EFFECT**](https://www.canva.com/)| MULTI EFFECT|
 * ---------------------------------------------------------------------
 
+PERFORMENCE
 
+devmgmt.msc
 
 
 wifi
