@@ -7,8 +7,12 @@ PERFORMENCE
 
 devmgmt.msc
 
+premier fois win irm https://get.activated.win | iex   irm christitus.com/win | iex
+
 
 wifi
+
+
 
 http://hacktowncsq6tszgk452y6mmnrr7jsgfi6qozaq4arwl3oial3irzkid.onion/Resources/View/ACTI-3
  
